@@ -25,15 +25,15 @@ MSS/
 ├─ README.md
 ├─ .gitignore
 ├─ code/
-│ ├─ 00_setup.R
-│ ├─ 01_build_sleep_dataset.R
-│ ├─ 02_main_survival_analysis.R
-│ ├─ 03_sex_stratified_and_interaction.R
-│ ├─ 04_sensitivity_analyses.R
-│ ├─ 05_mrs_construction_and_analysis.R
-│ └─ 06_figures_and_tables.R
+│  ├─ 00_setup.R
+│  ├─ 01_build_sleep_dataset.R
+│  ├─ 02_main_survival_analysis.R
+│  ├─ 03_sex_stratified_and_interaction.R
+│  ├─ 04_sensitivity_analyses.R
+│  ├─ 05_mrs_construction_and_analysis.R
+│  └─ 06_figures_and_tables.R
 ├─ docs/
-│ └─ sessionInfo.txt
+│  └─ sessionInfo.txt
 └─ output/
 
 ---
