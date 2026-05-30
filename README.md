@@ -35,7 +35,6 @@ MSS/
 ├─ docs/
 │  └─ sessionInfo.txt
 └─ output/
-
 ---
 
 ## Script Descriptions
