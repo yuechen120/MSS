@@ -1,0 +1,54 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.bak
+
+# Restricted or local data
+data/
+!data/.gitkeep
+
+# Output files
+output/*
+!output/.gitkeep
+!output/figures/.gitkeep
+!output/tables/.gitkeep
+
+# Large or derived files
+*.rds
+*.RDS
+*.qs
+*.fst
+*.feather
+*.parquet
+
+# Spreadsheets / exports
+*.xlsx
+*.xls
+*.csv
+*.tsv
+
+# Figures / documents
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.tif
+*.tiff
+*.svg
+
+# Logs
+*.log
+
+# Keep selected documentation
+!README.md
+!docs/
+!docs/sessionInfo.txt
